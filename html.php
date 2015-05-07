@@ -4,7 +4,7 @@ echo " hoy es" . date("l"). ".";
 les presentamos las noticias de hoy
 
 <script type = "text/javascript">
-document.write("hoy es" + Date());
+document.write("hoyasasdasd es" + Date());
 </script>
 
 
